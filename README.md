@@ -37,11 +37,11 @@ NorthPeak-Digital/
 
 ## Live Demo
 
-(Add your Netlify URL here after deployment.)
+https://web-northpeak-digital.netlify.app
 
 ## GitHub Repository
 
-(Add your GitHub repository link here after uploading.)
+https://github.com/gayathri28-lang/NorthPeak-Digital
 
 ## Author
 
