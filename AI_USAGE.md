@@ -1,0 +1,1 @@
+I used ChatGPT to better understand responsive web development, semantic HTML, CSS layout techniques, and JavaScript form validation. The suggestions helped me structure the website and improve accessibility. I reviewed, customized, and tested the implementation before finalizing the project to ensure it met the assignment requirements.
